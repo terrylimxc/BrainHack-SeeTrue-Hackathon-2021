@@ -70,8 +70,9 @@ Never would I have expect myself to be in the Top 3 for this competition. The 2 
 
 The techniques that I have used were a replica of what I had did for my CS3244 Machine Learning project last year.
 
-If I had more time and was more free, here are some improvements that I would made to create a better model and obtain better predictions:
+<br/>
 
+If I had more time and was more free, here are some improvements that I would made to create a better model and obtain better predictions:
 
 1) Data
 
@@ -81,11 +82,13 @@ Obtaining the video frame by ourselves would have ensure a greater level of cons
 
 Nevertheless, kudos to the organising commitee for providing us with the frame for each video!
 
+<br/>
 
 2) Model
 
 I would have explored more techniques such as finding the best pre-trained model for the job and explore different ways that I could have tweaked the model.
 
+<br/>
 
 3) Submission
 
