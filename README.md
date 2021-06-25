@@ -8,9 +8,9 @@
 
 ## Getting started
 
-This repository was forked from the official code repository of DSTA Brainhack SeeTrue 2021 Hackathon.
+Information on this repository was taken from the [official code repository](https://github.com/brainhack-seetrue-2021/Hackathon) of DSTA Brainhack SeeTrue 2021 Hackathon.
 
-I have added my model that clinched the 2nd place in the *University Category*. It had achieved a log loss score of 0.310793888.
+I have added my own experience in this competition. My model had clinched the 2nd place in the *University Category*, achieving a log loss score of 0.310793888.
 
 Google Colaboratory was used as the main platform for developing the model, utilising the free GPU provided.
 
