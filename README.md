@@ -32,7 +32,7 @@ The dataset was given in 2 formats:
 Directory structure of dataset:
 
 <p align="center">
-  <img src="https://i.ibb.co/b2q34PX/directory.png" />
+  <img src="https://i.ibb.co/b2q34PX/directory.png" width="700" height="700"/>
 </p>
 
 ## Model
