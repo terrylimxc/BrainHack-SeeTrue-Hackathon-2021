@@ -72,6 +72,7 @@ The techniques that I have used were a replica of what I had did for my CS3244 M
 
 If I had more time and was more free, here are some improvements that I would made to create a better model and obtain better predictions:
 
+
 1) Data
 
 I would have explored techniques to work on the actual video rather than the given video frames. As the main goal was to predict whether a given video was real or fake, I felt that it would be more satisfying to deal with the video itself.
