@@ -76,11 +76,7 @@ If I had more time and was more free, here are some improvements that I would ma
 
 1) Data
 
-I would have explored techniques to work on the actual video rather than the given video frames. As the main goal was to predict whether a given video was real or fake, I felt that it would be more satisfying to deal with the video itself.
-
-Obtaining the video frame by ourselves would have ensure a greater level of consistency and let us have a better understanding of the dataset.
-
-Nevertheless, kudos to the organising commitee for providing us with the frame for each video!
+I would have explored techniques to work on the actual video rather than the given video frames. As the main goal was to predict whether a given video was real or fake, I felt that it would be more satisfying to deal with the video itself. Obtaining the video frame by ourselves would have ensure a greater level of consistency and let us have a better understanding of the dataset. Nevertheless, kudos to the organising commitee for providing us with the frame for each video!
 
 <br/>
 
