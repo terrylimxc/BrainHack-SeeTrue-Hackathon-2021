@@ -74,18 +74,18 @@ The techniques that I have used were a replica of what I had did for my CS3244 M
 
 If I had more time and was more free, here are some improvements that I would made to create a better model and obtain better predictions:
 
-1) Data
+1) **Data**
 
 I would have explored techniques to work on the actual video rather than the given video frames. As the main goal was to predict whether a given video was real or fake, I felt that it would be more satisfying to deal with the video itself. Obtaining the video frame by ourselves would have ensure a greater level of consistency and let us have a better understanding of the dataset. Nevertheless, kudos to the organising commitee for providing us with the frame for each video!
 
 <br/>
 
-2) Model
+2) **Model**
 
 I would have explored more techniques such as finding the best pre-trained model for the job and explore different ways that I could have tweaked the model.
 
 <br/>
 
-3) Submission
+3) **Submission**
 
 Instead of taking the average of all the probability scores for the different frames of the video, I might have considered other schemes such as assigning weights to the frames.
